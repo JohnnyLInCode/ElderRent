@@ -1,2 +1,2 @@
 # ElderRent
-Elder-Friendly Incentive System
+Elder-Friendly Rental Recommendation & Incentive System
